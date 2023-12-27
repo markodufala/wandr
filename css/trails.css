@@ -1,0 +1,239 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    font-family: 'Helvetica', Arial, sans-serif;
+    height: 100%;
+}
+
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
+
+
+
+header {
+    color: #2A392A;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 100px; /* Adjust the size of your logo */
+    height: auto;
+    margin-right: 10px;
+}
+
+nav {
+    flex-grow: 1;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #2A392A;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+.login-btn {
+    background-color: #2A392A;
+    color: #fff;
+    padding: 10px 35px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.login-btn:hover {
+    background-color: #fff;
+    color: #2A392A;
+}
+
+
+
+
+
+
+h2{
+    text-align: center;
+}
+
+
+/* The container must be positioned relative: */
+.custom-select {
+    position: relative;
+    font-family: Arial;
+    margin: auto;
+    width: 50%;
+    padding-top: 1em;
+    margin-bottom: 4em;
+
+  }
+  
+.custom-select select {
+display: none; /*hide original SELECT element: */
+}
+
+.select-selected {
+background-color: #2A392A;
+border-radius: 20px;
+}
+
+/* Style the arrow inside the select element: */
+.select-selected:after {
+position: absolute;
+content: "";
+top: 14px;
+right: 10px;
+width: 0;
+height: 0;
+border: 6px solid transparent;
+border-color: #fff transparent transparent transparent;
+}
+
+/* Point the arrow upwards when the select box is open (active): */
+.select-selected.select-arrow-active:after {
+border-color: transparent transparent #fff transparent;
+top: 7px;
+}
+
+/* style the items (options), including the selected item: */
+.select-items div,.select-selected {
+color: #ffffff;
+padding: 8px 16px;
+border: 1px solid transparent;
+border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+cursor: pointer;
+}
+
+/* Style items (options): */
+.select-items {
+position: absolute;
+background-color: #2A392A;
+border-radius: 20px;
+top: 100%;
+left: 0;
+right: 0;
+z-index: 99;
+}
+
+/* Hide the items when the select box is closed: */
+.select-hide {
+display: none;
+}
+
+.select-items div:hover, .same-as-selected {
+background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    grid-gap: 20px;
+
+    align-items:stretch;
+    width: 90%;
+    align-items: center;
+}
+.card {
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    background-color: #fff;
+    transition: transform 0.3s ease-in-out;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card img {
+    width: 100%;
+    height: 150px; /* Adjust the height as needed */
+    object-fit: cover;
+}
+
+.card-content {
+    padding: 20px;
+}
+
+.card h2, .card h3, .card h4 {
+    margin: 0;
+    color: #333;
+}
+
+.card h2 {
+    font-size: 1.5em;
+}
+
+.card h3 {
+    font-size: 1.2em;
+}
+
+.card h4 {
+    font-size: 1em;
+}
+
+h2{
+    color: #2A392A;
+    text-align: center;
+    margin-top: 2em;
+    font-size: 2em;
+}
+
+
+.page-container {
+    text-align: center;
+}
+
+.page-container a {
+    margin: 0 5px; /* Adjust the margin as needed */
+}
+
+.page-container a.active {
+    font-weight: bold; /* Highlight the active page */
+}
+
+.navigation-container {
+    text-align: center;
+    margin-top: 10px; /* Adjust the margin as needed */
+}
+
+#numbering{
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    max-width: 600px; /* Set the maximum width of your centered section */}
+/* FOOTER */
+
+
+footer{ 
+    background-color: #2A392A;
+    height: 5em;
+}
+
+footer img{
+    margin-top: 2em;
+    margin-left: 2em;
+    height: 1em;
+}

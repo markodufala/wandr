@@ -1,0 +1,135 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    font-family: 'Helvetica', Arial, sans-serif;
+    height: 100%;
+}
+
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
+
+
+
+
+header {
+    color: #2A392A;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 100px; /* Adjust the size of your logo */
+    height: auto;
+    margin-right: 10px;
+}
+
+nav {
+    flex-grow: 1;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #2A392A;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+.login-btn {
+    background-color: #2A392A;
+    color: #fff;
+    padding: 10px 35px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.login-btn:hover {
+    background-color: #fff;
+    color: #2A392A;
+}
+
+
+
+
+.bg {
+    /* The image used */
+    background-image: url("https://zwa.toad.cz/~dufalma1/Semestralka/img/about_hero_img.jpg");
+    /* Full height */
+    height: 80vh;
+    margin-top: 20px;
+    width: 90%;
+    border-radius: 40px;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    margin: auto;
+
+    top: 20px; bottom: 0; left: 0; right: 0;
+
+}
+
+.bg{
+    margin-top: 40px;
+}
+
+
+p:first-of-type{    
+    color: #2A392A;
+    text-align: left;
+    max-width: 600px;
+    font-weight: 100;
+    font-size: 1.5em;
+    font-weight: 300;
+    text-align: justify;
+    padding: 1em 2em 2em 2em; 
+    margin: 0 auto;
+
+}
+
+
+
+p{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 600px;
+    font-size: 1.1em;
+    font-weight: 200;
+    text-align: justify;
+    margin-bottom: 1%;
+}
+
+p:last-of-type{
+    margin-bottom: 3%;
+}
+
+
+/* FOOTER */
+
+
+footer{ 
+    background-color: #2A392A;
+    height: 5em;
+}
+
+footer img{
+    margin-top: 2em;
+    margin-left: 2em;
+    height: 1em;
+}
+

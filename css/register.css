@@ -1,0 +1,86 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+  }
+
+
+  .logo {
+    display: flex;
+    align-items: center;
+    margin-right: 5%;
+    padding: 50px;
+}
+
+.logo img {
+    width: 100px; /* Adjust the size of your logo */
+    height: auto;
+}
+
+
+  #login-form {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-left: 65%;
+  }
+
+  input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+
+  button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+
+.error-message {
+    color: red;
+}
+
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+
+
+.colored-half {
+    background-size: cover;
+    background-color: #2A392A;
+    width: 50%;
+    height: 100vh;
+    float: left;
+    z-index: 0;
+}
+
+
+.colored-half h1{
+    margin-left: 70%;
+    color: #ffffff;
+}
+
+.colored-half #register {
+  color: #fff;
+}
+
+#login{
+  margin-top: 30%;
+  color: #1d231d;
+}
+
+
+#field {
+    float: right;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 15%;
+    margin-right: 10%;
+}
+
+
