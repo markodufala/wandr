@@ -63,7 +63,9 @@ nav a {
 
 
 
-
+form#selection{
+    text-align: center;
+}
 
 
 h2{
@@ -146,7 +148,7 @@ background-color: rgba(0, 0, 0, 0.1);
     grid-gap: 20px;
 
     align-items:stretch;
-    width: 90%;
+    width: 100%;
     align-items: center;
 }
 .card {

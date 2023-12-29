@@ -1,37 +1,58 @@
+<?php
+session_start();
+
+// Check if the user is not logged in, redirect to login.php
+if (!isset($_SESSION['loggedIn']) || $_SESSION['loggedIn'] !== true) {
+    header('Location: login.php');
+    exit;
+
+}
+// Rest of your trails.php code
+?>
+
+
 <?php include 'header.php';?>
 
 
 <?php
-    // Získajte aktuálnu stránku zo query parametra
-    $page = isset($_GET['page']) ? intval($_GET['page']) : 1;
-    $itemsPerPage = 12; // Počet položiek na stránku
+// Získajte aktuálnu stránku zo query parametra
+$page = isset($_GET['page']) ? intval($_GET['page']) : 1;
+$itemsPerPage = 12; // Počet položiek na stránku
 
-    // Načítajte JSON súbor
-    $jsonFile = 'data.json';
-    $jsonContents = file_get_contents($jsonFile);
-    $allItems = json_decode($jsonContents, true);
+// Načítajte JSON súbor
+$jsonFile = 'data.json';
+$jsonContents = file_get_contents($jsonFile);
+$allItems = json_decode($jsonContents, true);
 
-    // Vypočítajte začiatočný a koncový index pre aktuálnu stránku
-    $startIndex = ($page - 1) * $itemsPerPage;
-    $endIndex = $startIndex + $itemsPerPage;
+// Get the selected number from 0 to 7 (adjust the value as needed)
+$selectedNumber = isset($_GET['number']) ? intval($_GET['number']) : null;
 
-    // Získajte iba položky pre aktuálnu stránku
-    $currentPageItems = array_slice($allItems, $startIndex, $itemsPerPage);
+// Filter items based on the "number" attribute
+$filteredItems = array_filter($allItems, function ($item) use ($selectedNumber) {
+    // Check if the "number" key exists before accessing it
+    return isset($item['number']) && ($selectedNumber === null || $item['number'] == $selectedNumber);
+});
 
-    // Vytvorte odkazy na predchádzajúce a ďalšie stránky
-    $prevPage = ($page > 1) ? $page - 1 : null;
-    $nextPage = ($endIndex < count($allItems)) ? $page + 1 : null;
+// Vypočítajte začiatočný a koncový index pre aktuálnu stránku
+$startIndex = ($page - 1) * $itemsPerPage;
+$endIndex = $startIndex + $itemsPerPage;
 
-    // Vypočítajte celkový počet strán
-    $totalPages = ceil(count($allItems) / $itemsPerPage);
+// Získajte iba položky pre aktuálnu stránku
+$currentPageItems = array_slice($filteredItems, $startIndex, $itemsPerPage);
 
-    // Získajte zoznam stránok na zobrazenie v navigácii
-    $visiblePages = range(1, min($totalPages, 10));
+// Vytvorte odkazy na predchádzajúce a ďalšie stránky
+$prevPage = ($page > 1) ? $page - 1 : null;
+$nextPage = ($endIndex < count($filteredItems)) ? $page + 1 : null;
 
+// Vypočítajte celkový počet strán
+$totalPages = ceil(count($filteredItems) / $itemsPerPage);
 
-    $visiblePages = range(max(1, $page - 9), min($totalPages, $page + 10));
+// Získajte zoznam stránok na zobrazenie v navigácii
+$visiblePages = range(1, min($totalPages, 10));
 
-    ?>
+$visiblePages = range(max(1, $page - 9), min($totalPages, $page + 10));
+
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -48,7 +69,33 @@
     <h2>Vyber si kraj</h2>
 
 
-<div class="grid">
+    <form action="" method="get" id="selection">
+    <label for="number">Vyberte kraj:</label>
+    <select name="number" id="number">
+        <option value="">Všetky kraje</option>
+        <?php
+        $regionNames = [
+            'Bratislavský kraj',
+            'Banskobystrický kraj',
+            'Košický kraj',
+            'Nitriansky kraj',
+            'Trenčiansky kraj',
+            'Trnavský kraj',
+            'Prešovský kraj',
+            'Žilinský kraj'
+        ];
+        for ($i = 0; $i <= 7; $i++):
+        ?>
+            <option value="<?php echo $i; ?>" <?php echo ($selectedNumber == $i) ? 'selected' : ''; ?>>
+                <?php echo $regionNames[$i]; ?>
+            </option>
+        <?php endfor; ?>
+    </select>
+    <button type="submit">Filtrovať</button>
+</form>
+
+
+    <div class="grid">
         <?php foreach ($currentPageItems as $item): ?>
             <a href="hrebienok.php?id=<?php echo $item['id']; ?>">
                 <div class="card">

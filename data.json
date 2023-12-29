@@ -5,7 +5,18 @@
     "subheading": "Objavte majestátne vrcholy",
     "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
     "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
+    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr.",
+    "number": 3,
+    "dlzka": "4.8 km",
+    "cas": "1:45 h",
+    "vyska": "265 m",
+    "Trasa": "Starý smokovec - Hrebienok - Starý smokovec",
+    "Náročnosť": "1/5",
+    "Výhľady": "1/5",
+    "Dávka": "1,5",
+    "Ročné obdobie": "Celoročne",
+    "img1": "img/pieskovna1.jpeg",
+    "img2": "img/pieskovna2.jpeg"
   },
   {
     "id": "prielom-hornadu",
@@ -13,7 +24,19 @@
     "subheading": "Objavte pokojné pobrežie",
     "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
     "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
+    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou.",
+    "number": 7,
+    "dlzka": "14.8 km",
+    "cas": "3:45 h",
+    "vyska": "565 m",
+    "Trasa": "Vysoké Tatry - Rysy",
+    "Náročnosť": "3/5",
+    "Výhľady": "5/5",
+    "Dávka": "2/5",
+    "Ročné obdobie": "Leto",
+    "img1": "img/pieskovna1.jpeg",
+    "img2": "img/pieskovna2.jpeg"
+
   },
   {
     "id": "nizke-tatry-panorama",
@@ -21,7 +44,19 @@
     "subheading": "Očarujúce Výhľady na Hory",
     "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
     "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
+    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr.",
+    "number": 2,
+    "dlzka": "3.8 km",
+    "cas": "1:25 h",
+    "vyska": "259 m",
+    "Trasa": "Nízké Tatry - Chopok",
+    "Náročnosť": "3/5",
+    "Výhľady": "4/5",
+    "Dávka": "3/5",
+    "Ročné obdobie": "Zima",
+    "img1": "img/pieskovna1.jpeg",
+    "img2": "img/pieskovna2.jpeg"
+
   },
   {
     "id": "male-karpaty-pohlad",
@@ -29,7 +64,19 @@
     "subheading": "Zachyťte Krásu Malej Karpácie",
     "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
     "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
+    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie.",
+    "number": 4,
+    "dlzka": "24.8 km",
+    "cas": "9:45 h",
+    "vyska": "965 m",
+    "Trasa": "Slovenský ráj - Piecky",
+    "Náročnosť": "2/5",
+    "Výhľady": "3/5",
+    "Dávka": "2/5",
+    "Ročné obdobie": "Jar",
+    "img1": "img/pieskovna1.jpeg",
+    "img2": "img/pieskovna2.jpeg"
+
   },
   {
     "id": "slovensky-raj-divocina",
@@ -37,7 +84,19 @@
     "subheading": "Prejdite Neprebádanými Kútmi",
     "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
     "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
+    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine.",
+    "number": 6,
+    "dlzka": "2.8 km",
+    "cas": "1:15 h",
+    "vyska": "165 m",
+    "Trasa": "Malá Fatra - Velký Rozsutec",
+    "Náročnosť": "3/5",
+    "Výhľady": "4/5",
+    "Dávka": "2/5",
+    "Ročné obdobie": "Jeseň",
+    "img1": "img/pieskovna1.jpeg",
+    "img2": "img/pieskovna2.jpeg"
+
   },
   {
     "id": "male-tatry-stezka",
@@ -45,15 +104,39 @@
     "subheading": "Objavte Pôvab Malých Tatier",
     "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
     "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
+    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier.",
+    "number": 5,
+    "dlzka": "1.8 km",
+    "cas": "0:45 h",
+    "vyska": "65 m",
+    "Trasa": "Slovenský kras - Ochtinská aragonitová jeskyně",
+    "Náročnosť": "1/5",
+    "Výhľady": "1/5",
+    "Dávka": "1/5",
+    "Ročné obdobie": "Celoročne",
+    "img1": "img/pieskovna1.jpeg",
+    "img2": "img/pieskovna2.jpeg"
+
+
   },
   {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
+    "id": "jazero-pieskovna",
+    "heading": "Jazero Pieskovňa",
     "subheading": "Obchod a Príroda v Harmónii",
     "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
+    "paragraph1": "Plavecký Štvrtok je známy najmä chatovými oblasťami. Pri jednej z nich sa nachádza jazero Pieskovňa obklopené najmä listnatými a ihličnatými stromami. Jazero je menšie a vytvorila ho príroda.    ",
+    "paragraph2": "Lokalitu využívajú najmä domáci. Je to ideálne miesto na prechádzky a užívanie si prírodných krás. V lete trblietavá hladina jazera láka na kúpanie a pieskové brehy zas na leňošenie a slnenie sa. Jazero má pozvoľný vstup do vody, takže je vhodné aj pre rodiny s deťmi.    ",
+    "number": 1,
+    "dlzka": "5.3 km",
+    "cas": "3:45 h",
+    "vyska": "335 m",
+    "Trasa": "Bratislava - Historické centrum",
+    "Náročnosť": "1/5",
+    "Výhľady": "2/5",
+    "Dávka": "4/5",
+    "Ročné obdobie": "Celoročne",
+    "img1": "img/pieskovna1.jpeg",
+    "img2": "img/pieskovna2.jpeg"
   },
   {
     "id": "nove-zamky-hradna-stezka",
@@ -61,7 +144,19 @@
     "subheading": "Historická Púť K Hradu",
     "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
     "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
+    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov.",
+    "number": 2,
+    "dlzka": "8.9 km",
+    "cas": "4:45 h",
+    "vyska": "565 m",
+    "Trasa": "Slovenský raj - Tomášovský výhľad",
+    "Náročnosť": "3/5",
+    "Výhľady": "4/5",
+    "Dávka": "2/5",
+    "Ročné obdobie": "Leto",
+    "img1": "img/pieskovna1.jpeg",
+    "img2": "img/pieskovna2.jpeg"
+
   },
   {
     "id": "hrebienok-vodopad-safari",
@@ -69,7 +164,19 @@
     "subheading": "Safari Vodopádmi a Prírodou",
     "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
     "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
+    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov.",
+    "number": 4,
+    "dlzka": "8.2 km",
+    "cas": "3:45 h",
+    "vyska": "965 m",
+    "Trasa": "Pieniny - Rafting na Dunajci",
+    "Náročnosť": "2/5",
+    "Výhľady": "3/5",
+    "Dávka": "3/5",
+    "Ročné obdobie": "Jar",
+    "img1": "img/pieskovna1.jpeg",
+    "img2": "img/pieskovna2.jpeg"
+
   },
   {
     "id": "saris-lesna-cesta",
@@ -77,1206 +184,18 @@
     "subheading": "Pokojné Púte Lesom",
     "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
     "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
-  },
-  {
-    "id": "tatranska-magistrala",
-    "heading": "Tatranská Magistrála",
-    "subheading": "Objavte majestátne vrcholy",
-    "subsubheading": "Vzrušujúca dobrodružstvá v srdci hôr",
-    "paragraph1": "Vyrazte na cestu objavovania očarujúcich vrcholov s našou dobrodružnou Tatranskou Magistrálou. Počas stúpania na nové výšky vás čakajú dychvyrážajúce panorámy a osviežujúci horský vzduch. Prejdite náročnými chodníkmi a ponorte sa do srdca hôr, kde vzrušenie stúpania je vyrovnané len úžasnými výhľadmi, ktoré vás čakajú na vrchole.",
-    "paragraph2": "Zažite vrchol dobrodružstva s naším balíčkom Tatranskej Magistrály - dokonalou kombináciou vzrušujúceho vzrušenia a pokojnej krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočný objaviteľ, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v drsnej a úchvatnej krajine hôr."
-  },
-  {
-    "id": "prielom-hornadu",
-    "heading": "Prielom Hornádu",
-    "subheading": "Objavte pokojné pobrežie",
-    "subsubheading": "Očakávajú vás upokojujúce vlny a malebné krajiny",
-    "paragraph1": "Prielom Hornádu vás volá, aby ste objavili pokojné pobrežie a prijali upokojujúci rytmus vĺn. Naša dobrodružná cesta po prielome Hornádu je symfóniou krásy prírody, ponúkajúc malebné krajiny a pokojné pláže pre skutočne omladzujúci zážitok. Prejdite sa po piesočnatých brehoch, vdýchnite si slaný morský vzduch a nechajte upokojujúci zvuk vĺn odplaviť stresy každodenného života.",
-    "paragraph2": "Uvoľnite sa medzi pobrežnými zázrakmi, keď sa vyberiete na cestu objavovania skrytých klenotov pozdĺž pobrežia. Od skrytých zátok po rozsiahle pláže, Prielom Hornádu sľubuje únik do pokojnej prírody. Objavte kúzlo pobrežia s jeho neustále sa meniacimi krajinami a nechajte pokoj mora stať sa nadčasovou pamäťou."
-  },
-  {
-    "id": "nizke-tatry-panorama",
-    "heading": "Nízke Tatry Panoráma",
-    "subheading": "Očarujúce Výhľady na Hory",
-    "subsubheading": "Objavujte klenoty nízkych hôrskych masívov",
-    "paragraph1": "Vydejte sa na cestu objavovania krás nízkych hôr s našou trasou Nízke Tatry Panoráma. Počas tohto dobrodružstva budete mať príležitosť obdivovať očarujúce panorámy a dýchať osviežujúci vzduch hôr. Prejdite si chodníkmi, ktoré vedú k tajomným zákutiam, a ponorte sa do malebnej krásy nízkych Tatier.",
-    "paragraph2": "Zážitok z dobrodružstva na našej trase Nízke Tatry Panoráma - to je dokonalá kombinácia vzrušenia a pokoja v prírode. Bez ohľadu na to, či ste skúsený turista alebo začiatočný prieskumník, toto vzrušujúce dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine nízkych hôr."
-  },
-  {
-    "id": "male-karpaty-pohlad",
-    "heading": "Male Karpaty Pohľad",
-    "subheading": "Zachyťte Krásu Malej Karpácie",
-    "subsubheading": "Očakávajte nezabudnuteľné výhľady a kúzlo prírody",
-    "paragraph1": "Trasa Male Karpaty Pohľad vás pozýva zachytiť krásu Malej Karpácie a prežiť nezabudnuteľné chvíle. Na tomto dobrodružstve objavíte malebné scenérie a pôsobivé výhľady. Prejdite sa po pohorie, kde vás čakajú krásne prírodné úkazy a pokojná atmosféra, čo z tohto výletu robí jedinečný zážitok.",
-    "paragraph2": "Pocíťte epitóm dobrodružstva s našou trasou Male Karpaty Pohľad - dokonalým spojením vzrušujúceho dobrodružstva a pokoja prírody. Či ste skúsený turista alebo nováčik objavovateľ, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malej Karpácie."
-  },
-  {
-    "id": "slovensky-raj-divocina",
-    "heading": "Slovenský Raj Divočina",
-    "subheading": "Prejdite Neprebádanými Kútmi",
-    "subsubheading": "Divočina a Krása v Srdci Slovenského Raja",
-    "paragraph1": "Zažite neobjavené kúty so Slovenským Rajom Divočinou a prejdite neprebádanými miestami. Na tejto trase sa ponoríte do divočiny a krásy, kde budete mať možnosť objaviť úplne nové svety. Prejdite neznačenými chodníkmi a objavujte divočinu, ktorá vám odhalí prírodné tajomstvá.",
-    "paragraph2": "Nechajte sa uniesť epitómom dobrodružstva s našou trasou Slovenský Raj Divočina - dokonalým spojením vzrušujúceho dobrodružstva a krásy srdca Slovenského Raja. Či ste skúsený turista alebo nováčik prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v divokej a ohromujúcej krajine."
-  },
-  {
-    "id": "male-tatry-stezka",
-    "heading": "Malé Tatry Stezka",
-    "subheading": "Objavte Pôvab Malých Tatier",
-    "subsubheading": "Vzrušujúce Výhľady a Nádherné Lesy",
-    "paragraph1": "Vydajte sa na cestu objavovania pôvabu Malých Tatier s trasou Malé Tatry Stezka. Počas tohto dobrodružstva budete mať príležitosť obdivovať vzrušujúce výhľady a prechádzať nádhernými lesmi. Prejdite si chodníkmi, ktoré vás zavedú k najkrajším miestam tejto horskej oblasti.",
-    "paragraph2": "Zažite epitóm dobrodružstva s našou trasou Malé Tatry Stezka - dokonalým spojením vzrušujúceho dobrodružstva a krásy prírody. Bez ohľadu na to, či ste skúsený turista alebo začiatočník prieskumník, toto dobrodružstvo sľubuje nezabudnuteľný zážitok v malebnej a úchvatnej krajine Malých Tatier."
-  },
-  {
-    "id": "strbske-pleso-obchod",
-    "heading": "Strbské Pleso Obchodná Cesta",
-    "subheading": "Obchod a Príroda v Harmónii",
-    "subsubheading": "Zážitok zo Slávneho Strbského Plesa",
-    "paragraph1": "Výnimočná cesta vás zavedie na obchodnú trasu Strbského Plesa, kde sa obchod a príroda stretávajú v harmónii. Počas tohto dobrodružstva si užijete nakupovanie v malebných obchodoch a zároveň obdivujete krásy prírody okolo nádherného Strbského Plesa. Prejdite obchodným chodníkom a objavte pôvab tohto slávneho miesta.",
-    "paragraph2": "Zažite jedinečný zážitok s našou obchodnou trasou Strbského Plesa - spojením nakupovania a prírody na jednom mieste. Bez ohľadu na to, či ste obchodný profesionál alebo milovník prírody, táto cesta sľubuje nezabudnuteľný zážitok v úchvatnej lokalite Strbského Plesa."
-  },
-  {
-    "id": "nove-zamky-hradna-stezka",
-    "heading": "Nové Zámky Hradná Stezka",
-    "subheading": "Historická Púť K Hradu",
-    "subsubheading": "Objavte Starobylý Hrad v Nových Zámkoch",
-    "paragraph1": "Zahĺbte sa do histórie s trasou Nové Zámky Hradná Stezka, ktorá vás zavedie na historickú púť k starobylému hradu. Počas tohto dobrodružstva prechádzate pôsobivými miestami a objavujete tajomstvá hradu v Nových Zámkoch. Prejdite starobylým chodníkom a zažite atmosféru minulých čias.",
-    "paragraph2": "Objavte históriu a tajomstvá s našou trasou Nové Zámky Hradná Stezka - vzrušujúcou historickou púťou k starobylému hradu. Bez ohľadu na to, či ste historik alebo nadšenec dobrodružstva, táto cesta sľubuje nezabudnuteľný zážitok v historickej lokalite Nových Zámkov."
-  },
-  {
-    "id": "hrebienok-vodopad-safari",
-    "heading": "Hrebienok Vodopad Safari",
-    "subheading": "Safari Vodopádmi a Prírodou",
-    "subsubheading": "Unikátny Pohľad na Vodopády pri Hrebienku",
-    "paragraph1": "Zážitok safari s vodopadmi vás zavedie do malebného prostredia Hrebienka, kde si vychutnáte unikátny pohľad na vodopády. Počas tejto trasy sa ponorte do prírody a sledujte vodopády, ktoré tvoria nádherné scenérie. Prejdite vodopádovým chodníkom a zažite jedinečný spoj prírody a divokého sveta.",
-    "paragraph2": "Vydejte sa na nezabudnuteľné safari s našou trasou Hrebienok Vodopad Safari - kombináciou vodopádov a prírody v srdci Hrebienka. Bez ohľadu na to, či ste milovník vodopádov alebo prírodnej krásy, táto cesta sľubuje dobrodružstvo plné úžasných výhľadov."
-  },
-  {
-    "id": "saris-lesna-cesta",
-    "heading": "Šariš Lesná Cesta",
-    "subheading": "Pokojné Púte Lesom",
-    "subsubheading": "Objavujte Šarišský Les v Srdci Slovenska",
-    "paragraph1": "Uvoľnite sa na pokojnej púti lesnou trasou Šariš, kde objavujete krásy Šarišského lesa v srdci Slovenska. Počas tohto dobrodružstva si užijete pokojné prechádzky a obdivujete lesné scenérie. Prejdite lesným chodníkom a nechajte sa uniesť atmosférou prírody Šarišského lesa.",
-    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody."
+    "paragraph2": "Zažite pokojnú krásu prírody s našou trasou Šariš Lesná Cesta - jedinečným spôsobom, ako objaviť Šarišský les. Bez ohľadu na to, či ste milovník prírody alebo oddychu v lese, táto cesta sľubuje nezabudnuteľný zážitok v srdci prírody.",
+    "number": 0,
+    "dlzka": "12.8 km",
+    "cas": "6:45 h",
+    "vyska": "1065 m",
+    "Trasa": "High Tatras - Green Lake",
+    "Náročnosť": "3/5",
+    "Výhľady": "5/5",
+    "Dávka": "2/5",
+    "Ročné obdobie": "Leto",
+    "img1": "img/pieskovna1.jpeg",
+    "img2": "img/pieskovna2.jpeg"
+
   }
 ]

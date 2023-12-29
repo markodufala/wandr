@@ -6,6 +6,10 @@ function generateUniqueID() {
     return uniqid(); // You may use a more secure method for generating unique IDs
 }
 
+
+include 'check_username.php';
+
+
 // PHP code for form processing
 $errors = [];
 
@@ -17,6 +21,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $usernameOrEmail = htmlspecialchars(trim($_POST["usernameOrEmail"]));
     $password = htmlspecialchars($_POST["password"]);
     $passwordRepeat = htmlspecialchars($_POST["passwordRepeat"]);
+
+
+        // Check if the username or email already exists
+        if (isUsernameOrEmailExists($usernameOrEmail)) {
+            $errors['usernameOrEmail'] = "Uzivatelkse meno už neexistuje";
+        }
 
     // Validate name length
     if (strlen($usernameOrEmail) < 3) {
