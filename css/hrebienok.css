@@ -1,0 +1,256 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    font-family: 'Helvetica', Arial, sans-serif;
+    height: 100%;
+}
+
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
+
+
+header {
+    color: #2A392A;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 100px; /* Adjust the size of your logo */
+    height: auto;
+    margin-right: 10px;
+}
+
+nav {
+    flex-grow: 1;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #2A392A;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+.login-btn {
+    background-color: #2A392A;
+    color: #fff;
+    padding: 10px 35px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.login-btn:hover {
+    background-color: #fff;
+    color: #2A392A;
+}
+
+#main_img{
+    display: flex;
+    float: right;
+    max-width: 1000px;
+    border-radius: 20px;
+
+}
+
+
+#galerry_image{
+    display: flex;
+    float: left;
+    max-width: 500px;
+    border-radius: 20px;
+    margin-top: 5%;
+}
+
+.main-image {
+    display: block; /* Set display to block to remove the float */
+    margin: 0 auto; /* Center the image horizontally */
+    max-width: 1000px;
+    border-radius: 20px;
+}
+
+.gallery-image {
+    display: block; /* Set display to block to remove the float */
+    margin: 5% 0; /* Center the image horizontally and add top margin */
+    max-width: 900px;
+    border-radius: 20px;
+}
+
+#info{
+    flex-direction: column;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1{
+    font-weight: 700;
+}
+
+
+h1{
+    margin-bottom: 2em;
+    margin-top: 1em;
+    color: #2A392A;
+}
+
+h2{
+    font-weight: 500;
+    margin-top: 1em;
+    margin-bottom: 1.2em;
+    color: #2A392A;
+}
+
+/* rating */
+
+#stats{
+    margin-left: 5%;
+}
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+.bigger-dot{
+    border-radius: 100%;
+    padding: 2% 2% 2% 2%;
+    color: #fff;
+    background-color: #2A392A;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.rating1:nth-of-type(-n+3) {
+    background-color: #2A392A; /* Set your desired background color for the first three dots */
+}
+
+
+.dot.rating2:nth-of-type(-n+3) {
+    background-color: #2A392A; /* Set your desired background color for the first three dots */
+}
+
+.dot.rating3:nth-of-type(-n+3) {
+    background-color: #2A392A; /* Set your desired background color for the first three dots */
+}
+
+
+h4{
+    text-align: center;
+    font-size: 2em;
+    color: #2A392A;
+}
+
+h3{
+    text-align: center;
+    font-size: 2em;
+    color: #2A392A;
+}
+
+
+table{
+    font-size: 1.3em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+
+
+
+
+/* Comment section */
+
+.container {
+    width: 40%;
+    margin: auto;
+    overflow: hidden;
+}
+
+
+#main {
+    padding: 50px 0;
+}
+
+#comment-form {
+    margin-bottom: 50px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #2A392A;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover {
+    background-color: #3f483f;
+}
+
+.comments {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.comment {
+    margin-bottom: 20px;
+}
+
+.comment p {
+    margin: 0;
+}
+
+.comment .user {
+    font-weight: bold;
+    color: #333;
+}
+
+.comment .time {
+    color: #999;
+    font-size: 12px;
+}
+
+
+
+.content-container {
+    text-align: center;
+    max-width: 600px; /* Adjust the max-width according to your design */
+    padding: 20px;
+    border: 1px solid #ccc; /* Optional: Add a border for better visibility */
+}

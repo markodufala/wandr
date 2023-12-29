@@ -36,13 +36,16 @@ $usernameOrEmail =  isset($_SESSION['usernameOrEmail']) ? $_SESSION['usernameOrE
 
 
     <div id="login-form">
-        <form method="post" action="register_process.php" enctype="multipart/form-data">
+        <form method="post" action="register_process.php" enctype="multipart/form-data" onsubmit="return checkUsernameBeforeSubmit();">
 
         <label for="usernameOrEmail">Uživatelské meno nebo email:</label>
         <input type="text" name="usernameOrEmail" id = "usernameOrEmail" placeholder="Uživatelské meno" required
                 value="<?php echo htmlspecialchars($usernameOrEmail); ?>">
 
             <?php if (isset($errors['usernameOrEmail'])) echo "<p class='error-message'>{$errors['usernameOrEmail']}</p>"; ?>
+
+            <p id="usernameOrEmailMessage" class="error-message"></p>
+
 
 
             <label for="password">Heslo:</label>
@@ -69,8 +72,7 @@ $usernameOrEmail =  isset($_SESSION['usernameOrEmail']) ? $_SESSION['usernameOrE
     </div>
 
 
-
-
+<script src="checking_username.js"></script>
 
     
 

@@ -97,9 +97,9 @@ p:nth-child(2){
     font-weight: 100;
     color: white;
     font-size: 1em;
-    max-width: 250px;
-
-    top: 60%; bottom: 0; left: 75%; right: 0;
+    max-width: 350px;
+    font-size: 1.5em;
+    top: 60%; bottom: 0; left: 65%; right: 0;
 }
 
 .bg button{
@@ -123,150 +123,12 @@ h1 {
 }
 
 
-/* Top lokácie */
-
-
-
-.grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-    grid-gap: 20px;
-    align-items:stretch;
-    width: 100%;
-    align-items: center;
-}
-.card {
-    width: 80%;
-    margin-left: 10%;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 20px;
-    background-color: #fff;
-    transition: transform 0.3s ease-in-out;
-    box-sizing: border-box;
-    
-}
-
-.card:hover {
-    transform: scale(1.05);
-}
-
-.card img {
-    width: 100%;
-    height: 150px; /* Adjust the height as needed */
-    object-fit: cover;
-}
-
-.card-content {
-    padding: 20px;
-}
-
-.card h2, .card h3, .card h4 {
-    margin: 0;
-    color: #333;
-}
-
-.card h2 {
-    font-size: 1.5em;
-}
-
-.card h3 {
-    font-size: 1.2em;
-}
-
-.card h4 {
-    font-size: 1em;
-}
-
-h2{
-    color: #2A392A;
-    text-align: center;
-    margin-top: 2em;
-    font-size: 2em;
-}
-
-#search{
-    color: #fff;
-    -webkit-text-stroke: 1px #2A392A; 
-}
-
-
-/* The container must be positioned relative: */
-.custom-select {
-    position: relative;
-    font-family: Arial;
-    margin: auto;
-    width: 50%;
-    width:200px;
-    padding-top: 1em;
-    margin-bottom: 4em;
-
-  }
-  
-.custom-select select {
-display: none; /*hide original SELECT element: */
-}
-
-.select-selected {
-background-color: #2A392A;
-border-radius: 20px;
-}
-
-/* Style the arrow inside the select element: */
-.select-selected:after {
-position: absolute;
-content: "";
-top: 14px;
-right: 10px;
-width: 0;
-height: 0;
-border: 6px solid transparent;
-border-color: #fff transparent transparent transparent;
-}
-
-/* Point the arrow upwards when the select box is open (active): */
-.select-selected.select-arrow-active:after {
-border-color: transparent transparent #fff transparent;
-top: 7px;
-}
-
-/* style the items (options), including the selected item: */
-.select-items div,.select-selected {
-color: #ffffff;
-padding: 8px 16px;
-border: 1px solid transparent;
-border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
-cursor: pointer;
-}
-
-/* Style items (options): */
-.select-items {
-position: absolute;
-background-color: #2A392A;
-border-radius: 20px;
-top: 100%;
-left: 0;
-right: 0;
-z-index: 99;
-}
-
-/* Hide the items when the select box is closed: */
-.select-hide {
-display: none;
-}
-
-.select-items div:hover, .same-as-selected {
-background-color: rgba(0, 0, 0, 0.1);
-}
-
-
-
 
 /* FOOTER */
 
 
-footer{ 
+footer{
+    margin-top: 5vh;
     background-color: #2A392A;
     height: 5em;
 }
