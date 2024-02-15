@@ -14,6 +14,8 @@ body {
     width: 100px; /* Adjust the size of your logo */
     height: auto;
     margin-right: 10px;
+    margin-top: 20%;
+    margin-left: 20%;
 }
 
 .profile-container {

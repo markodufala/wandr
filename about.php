@@ -1,5 +1,10 @@
-<?php include 'header.php';?>
+<?php
 
+
+ session_start();
+
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +17,33 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Avenir+Next:wght@400;700&display=swap">
 
 </head>
+
+
+
 <body>
+
+
+<header>
+    <div class="logo">
+        <a href="index.php"><img src="Wandr.svg" alt="Logo"></a>
+    </div>
+    <nav>
+        <a href="index.php">Domov</a>
+        <a href="about.php">O nás</a>
+        <a href="trails.php">Traily</a>
+    </nav>
+    
+    <?php
+        // Check if the user is logged in
+        if (isset($_SESSION['loggedIn']) && $_SESSION['loggedIn'] == true) {
+            // If logged in, display the "Profile" button
+            echo '<a href="profile.php" class="login-btn">Profil</a>';
+        } else {
+            // If not logged in, display the "Login" button
+            echo '<a href="login.php" class="login-btn">Prihláste sa</a>';
+        }
+    ?>
+</header>
     <div class="bg"></div>
 
 

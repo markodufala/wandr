@@ -1,4 +1,17 @@
-<?php include 'header.php';?>
+<?php
+
+/**
+ * Include the header.php file to incorporate header content in the HTML document.
+ *
+ * @file
+ * @author Marko Dufala
+ */
+
+ session_start();
+
+
+?>
+
 
 
 <!DOCTYPE html>
@@ -15,6 +28,28 @@
 
 </head>
 <body>
+
+<header>
+    <div class="logo">
+        <a href="index.php"><img src="Wandr.svg" alt="Logo"></a>
+    </div>
+    <nav>
+        <a href="index.php">Domov</a>
+        <a href="about.php">O nás</a>
+        <a href="trails.php">Traily</a>
+    </nav>
+    
+    <?php
+        // Check if the user is logged in
+        if (isset($_SESSION['loggedIn']) && $_SESSION['loggedIn'] == true) {
+            // If logged in, display the "Profile" button
+            echo '<a href="profile.php" class="login-btn">Profil</a>';
+        } else {
+            // If not logged in, display the "Login" button
+            echo '<a href="login.php" class="login-btn">Prihláste sa</a>';
+        }
+    ?>
+</header>
     <div class="bg">
 
         <p id="hero_text">Nie všetci ktorí wandrujú
@@ -22,122 +57,20 @@
         </p>
 
         <p id="hero">
-            Apple pie cake ice cream wafer jujubes jelly chupa chups. Lemon
-            drops soufflé donut topping sweet roll powder sweet.
+            Pre prezeranie trailov sa prihláste, a prezerajte si trasy vo vašom okolí.
+            Budte ten ktorý wandruje.
         </p>
 
-        <button class="login-btn">
-            press me
-        </button>
+        <!-- <button href="login.php" class="login-btn">
+            Prihláste sa
+        </button> -->
     </div>
-
-    
-    <h1>Top lokácie</h1>
-
-  
-    <div class="grid">
-
-        <a href="hrebienok.php">
-        <div class="card">
-            <img src="img/Hero_img.png" alt="Image 1">
-            <div class="card-content">
-                <h2>Heading 1</h2>
-                <h3>Subheading 1</h3>
-                <h4>Sub-subheading 1</h4>
-            </div>
-        </div>
-        </a>
-
-
-        <a href="hrebienok.php">
-            <div class="card">
-                <img src="img/Hero_img.png" alt="Image 1">
-                <div class="card-content">
-                    <h2>Heading 1</h2>
-                    <h3>Subheading 1</h3>
-                    <h4>Sub-subheading 1</h4>
-                </div>
-            </div>
-            </a>
-
-
-            <a href="hrebienok.php">
-                <div class="card">
-                    <img src="img/Hero_img.png" alt="Image 1">
-                    <div class="card-content">
-                        <h2>Heading 1</h2>
-                        <h3>Subheading 1</h3>
-                        <h4>Sub-subheading 1</h4>
-                    </div>
-                </div>
-                </a>
-
-                <a href="hrebienok.php">
-                    <div class="card">
-                        <img src="img/Hero_img.png" alt="Image 1">
-                        <div class="card-content">
-                            <h2>Heading 1</h2>
-                            <h3>Subheading 1</h3>
-                            <h4>Sub-subheading 1</h4>
-                        </div>
-                    </div>
-                    </a>
-
-                    <a href="hrebienok.php">
-                        <div class="card">
-                            <img src="img/Hero_img.png" alt="Image 1">
-                            <div class="card-content">
-                                <h2>Heading 1</h2>
-                                <h3>Subheading 1</h3>
-                                <h4>Sub-subheading 1</h4>
-                            </div>
-                        </div>
-                        </a>
-
-
-        <a href="hrebienok.php">
-            <div class="card">
-                <img src="img/Hero_img.png" alt="Image 1">
-                <div class="card-content">
-                    <h2>Heading 1</h2>
-                    <h3>Subheading 1</h3>
-                    <h4>Sub-subheading 1</h4>
-                </div>
-            </div>
-            </a>
-
-</div>
-
-
-    <h2>Vyber si svoj <span id="search">Wandr</span> Podľa kraja</h2>
-
-    <div class="custom-select">
-        <select>
-            <option value="0">Bratislavský kraj</option>
-            <option value="1">Banskobystrický kraj</option>
-            <option value="2">Košický kraj</option>
-            <option value="3">Nitriansky kraj</option>
-            <option value="4">Trenčiansky kraj</option>
-            <option value="5">Trnavský kraj</option>
-            <option value="6">Prešovský kraj</option>
-            <option value="7">Žilinský kraj</option>
-        </select>
-    </div>
-
-    <script src="selection.js"></script>
 
 
 
     <footer>
         <img src="inverse_logo.svg" alt="">
       </footer>
-
-
-
-
-
-
-
 
 
 </body>

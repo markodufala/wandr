@@ -1,30 +1,65 @@
 <?php
+/**
+ * User Profile script.
+ *
+ * This script checks if a user is logged in, retrieves relevant session data,
+ * and handles any form submissions for changing the password or name.
+ *
+ * PHP version 7.0 and above
+ *
+ * @category UserProfile
+ * @package  UserProfileScript
+ */
+
+/**
+ * Start the session to enable session variables.
+ */
 session_start();
 
+/**
+ * Check if the user is logged in.
+ */
 if (isset($_SESSION['loggedIn']) && $_SESSION['loggedIn'] == true) {
+    /**
+     * Retrieve the user's username or email from the session.
+     */
     $usernameOrEmail = $_SESSION['usernameOrEmail'];
+
+    /**
+     * Retrieve the user's name from the session or set to 'N/A' if not available.
+     */
     $name = isset($_SESSION['name']) ? $_SESSION['name'] : 'N/A';
-    //$uploadFile = isset($_SESSION['uploadFile']) ? $_SESSION['uploadFile'] : ''; // Add this line
-    //$profileImagePath = isset($_SESSION['uploadFile']) ? $_SESSION['uploadFile'] : ''; // Update this line
-    // echo $profileImagePath;
 
+    /**
+     * Retrieve the user's profile image path from the session.
+     */
     $profileImagePath = $_SESSION['profileImagePath'];
-    // echo $usernameOrEmail;
-    // echo $profileImagePath;
-    #echo $profileImagePath;
 
-    // Store password change error if it exists
+    /**
+     * Store the password change error if it exists.
+     */
     $passwordChangeError = isset($_SESSION['passwordChangeError']) ? $_SESSION['passwordChangeError'] : '';
 
-    // Clear the error after storing it
+    $nameChangeError =  isset($_SESSION['nameChangeError']) ? $_SESSION['nameChangeError'] : '';
+
+    /**
+     * Clear the error after storing it.
+     */
     unset($_SESSION['passwordChangeError']);
 
-    // Process any form submissions for changing password or name here if needed
+    /**
+     * Process any form submissions for changing the password or name here if needed.
+     * (Additional code for processing form submissions can be added here)
+     */
 } else {
+    /**
+     * Redirect to the login page if the user is not logged in.
+     */
     header("Location: login.php");
     exit();
 }
 ?>
+
 
 
 <!DOCTYPE html>
@@ -44,7 +79,7 @@ if (isset($_SESSION['loggedIn']) && $_SESSION['loggedIn'] == true) {
     </div>
 
     <div class="profile-container">
-        <h1>Welcome, <?php echo $usernameOrEmail; ?>!</h1>
+        <h1>Welcome, <?php echo htmlspecialchars($usernameOrEmail); ?>!</h1>
 
             
         <img id="profilePic" src="<?php echo $profileImagePath; ?>" alt="Profile Image">
@@ -55,7 +90,9 @@ if (isset($_SESSION['loggedIn']) && $_SESSION['loggedIn'] == true) {
         <?php endif; ?>
 
 
-
+        <?php if (!empty($nameChangeError)) : ?>
+            <p class="error"><?php echo $nameChangeError; ?></p>
+        <?php endif; ?>
 
 
         <!-- Add a form to change the password -->
